@@ -1,7 +1,7 @@
 # MinneMuDAC_DataScience_Challenge
 Link: https://minneanalytics.org/minnemudac-2025/
 
-Code on Colab: https://colab.research.google.com/drive/1zlA1NOLBQXLGZvM_gifJzRj5mvxvrDV8#scrollTo=RokoeaGxcrBA (Individual Contribution).
+Code on Colab: https://colab.research.google.com/drive/1zlA1NOLBQXLGZvM_gifJzRj5mvxvrDV8#scrollTo=p5CrRgeqbI-5 (Individual Contribution).
 
 # 🤝 MinneMUDAC 2025 Challenge – Big Brothers Big Sisters Twin Cities
 
