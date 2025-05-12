@@ -3,6 +3,9 @@ Link: https://minneanalytics.org/minnemudac-2025/
 
 Code on Colab: https://colab.research.google.com/drive/1zlA1NOLBQXLGZvM_gifJzRj5mvxvrDV8#scrollTo=p5CrRgeqbI-5 (Individual Contribution).
 
+**Team Achievement:** 🥇 **5th Place Overall**  
+**Model Performance:** 🧠 **2nd Best RMSE Score** among all competing teams!
+
 # 🤝 MinneMUDAC 2025 Challenge – Big Brothers Big Sisters Twin Cities
 
 ## Overview
